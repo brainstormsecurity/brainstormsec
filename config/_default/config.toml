@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "https://brainstorm-qi7h.onrender.com"
 title = "Brainstorm Security Ltd - Social Engineering and Penetration testing"
 theme = "bigspring-light"
 # post pagination
