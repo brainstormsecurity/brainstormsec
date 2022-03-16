@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
-  image : "images/training.jpg"
+  image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
@@ -53,9 +53,9 @@ service:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
       images:
-      - "images/Social engineer tran.gif"
-      - "images/Vishing tran.png"
-      - "images/tailgating tran.gif"
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true

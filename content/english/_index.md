@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Let us help solve your critical <br> Social Engineering & Penetration Testing <br> security challenges"
-  image : "images/training.jpg"
+  image : "images/banner-art.png"
   content : "What would happen if your premises or business had a physical intruder gain access?  What risk would you be exposed to? Loss of property, loss of data, financial loss, loss of customers, loss in trust in your company, loss of personal possessions? Reputional risk? Compliance risks? Legal Risks? <br> If you are looking to improve or test your Physical security or as part of your ongoing cyber security threat assessment, we can help with testing your access using real attack methods in a controlled way. We will provide you with recommendations on how to improve your security against Social Engineers (Con-artists) and Physical penetration by an offender."
   button:
     enable : true
@@ -54,9 +54,9 @@ service:
     # service item loop
     - title : "We have decades of experience helping conduct physical security tests"
       images:
-      - "images/Social engineer tran.gif"
-      - "images/Vishing tran.png"
-      - "images/tailgating tran.gif"
+      - "images/6.png"
+      - "images/4.png"
+      - "images/5.png"
       content : "With indepth specialist knowledge of how criminals operate, Brainstorm Security is best placed to test the physical penetration of your business. We’ll cover all bases to check for any weak points, then recommend effective changes to bolster your security. <br/> How do you know if your business is secure? The answer – you don’t. Until someone attacks or sneaks in. At that point, you’ll see exactly where your security was lacking. But by then it’s too late. <br/>
 Our security experts will perform a series of tests to check whether your business is secure. Getting into the mindset of your attacker, we’ll seek to exploit all methods of entry to your business to see how your premises and staff copes – and then condsider how you can do things better."
       button:
@@ -67,8 +67,8 @@ Our security experts will perform a series of tests to check whether your busine
     # service item loop
     - title : "It is a privately owned Information and cyber security company"
       images:
-      - "images/shoulder surfing tran.gif"
-      - "images/dumpster tran.gif"
+      - "images/2.png"
+      - "images/3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
@@ -78,7 +78,7 @@ Our security experts will perform a series of tests to check whether your busine
     # service item loop
     - title : "It’s a team of experienced and skilled people with distributions"
       images:
-      - "images/nervous lady.jpg"
+      - "images/1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
