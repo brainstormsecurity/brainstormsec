@@ -1,5 +1,5 @@
-baseURL = "https://brainstorm-qi7h.onrender.com/"
+baseURL = "https://brainstormsecurity.github.io/static/"
 relativeURLs = true
 uglyURLs = true
-languageCode = "en-us"
+languageCode = "en-uk"
 title = "My New Hugo Site"
