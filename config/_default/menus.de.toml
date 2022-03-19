@@ -1,7 +1,7 @@
 # main menu
 [[main]]
 name = "Home"
-url = "https://brainstorm-qi7h.onrender.com/"
+url = "https://brainstormsecurity.github.io/static/"
 weight = 1
 
 [[main]]

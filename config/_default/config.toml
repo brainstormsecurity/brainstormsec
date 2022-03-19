@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://brainstorm-qi7h.onrender.com"
+baseURL = "https://brainstormsecurity.github.io/static/"
 relativeURLs = true
 uglyURLs = true
 title = "Brainstorm Security Ltd - Social Engineering and Penetration testing"
